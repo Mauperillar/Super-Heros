@@ -62,7 +62,4 @@ public class Ventana extends JFrame{
         titlePanel.add(textTitle);
     };
     public void buttons(){};
-    
-    
-    
 }
